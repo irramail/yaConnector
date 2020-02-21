@@ -3,8 +3,8 @@
     "name": "YaDirect connector",
     "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/%22npm%22%20lockup/npm-logo-simplifed-with-white-space.png",
     "company": "SeoDogs.ru",
-    "companyUrl": "https://SeoDogs.ru",
-    "addonUrl": "https://SeoDogs.ru",
+    "companyUrl": "https://seodogs.ru/uslugi/yandeks-direkt-balans-v-google-data-studio-konnektor-seodogs-ru/",
+    "addonUrl": "https://seodogs.ru/uslugi/yandeks-direkt-balans-v-google-data-studio-konnektor-seodogs-ru/",
     "supportUrl": "https://github.com/google/datastudio/issues",
     "description": "Connector for direct.yandex.ru",
     "sources": ["api.direct.yandex.ru"]
